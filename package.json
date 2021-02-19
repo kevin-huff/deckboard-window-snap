@@ -1,0 +1,16 @@
+{
+  "name": "window-snap",
+  "version": "1.0.0",
+  "description": "Move a window to a specific monitor in Deckboard",
+  "main": "index.js",
+  "scripts": {
+    "build": "deckboard-kit --build"
+  },
+  "keywords": [],
+  "author": "Kevin Huff <kevin@kevinhuff.net> (kevinhuff.net)",
+  "license": "MIT",
+  "dependencies": {
+    "deckboard-kit": "^0.1.0",
+    "node-window-manager": "^2.2.4"
+  }
+}
